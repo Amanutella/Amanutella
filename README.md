@@ -4,7 +4,11 @@
 - 📚 Cursando Análise e Desenvolvimento de Sistema (2° Semestre)
 - 🖱️  Estudando Java 
 - 😄 Pronomes: ela/dela
+- 🎯 A procura de estágio
 
+![Inserir_um_titulo](https://github.com/user-attachments/assets/3cfb7611-3883-44d8-82f9-8255492f7613)
+
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanutella&show_icons=true&theme=tokyonight)
 

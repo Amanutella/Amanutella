@@ -6,9 +6,7 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/4b20257e-ecd2-446d-a362-171c90d54504"/></p>
 
 <div align="center">
-    <p> 📚 Cursando Análise e Desenvolvimento de Sistema (2° Semestre)</p>
-    <p> 🖱️  Estudando Java </p>
-    <p> 😄 Pronomes: ela/dela</p>
+    <p> 📚 Cursando Análise e Desenvolvimento de Sistema (3° Semestre)</p>
     <p> 🎯 A procura de estágio</p>
 </div>
 
